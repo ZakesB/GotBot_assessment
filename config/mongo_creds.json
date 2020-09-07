@@ -1,0 +1,3 @@
+{
+  "mongoURL": "mongodb://locahost:27017/Messenger"
+}
